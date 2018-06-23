@@ -12,12 +12,16 @@ class Introduction extends React.Component {
             <img src="https://via.placeholder.com/350x150" alt="" />
           </div> */}
           <div className="copy">
-            <h1>Hey <span className="blink"> █ </span></h1>
+            <h1>
+              Hey <span className="blink"> █ </span>
+            </h1>
+            <p>I'm Ray. I love design and strive for flawless execution.</p>
             <p>
-              I'm Ray. I love design and strive for flawless execution.
-            </p>
-            <p>
-              I've been passionate about web design since I was 12 years old. Wanted to be an illustrator but got an AAS in graphic design instead. Web development allows me to marry my love for art with my desire for organization. The results are thoughtful compositions with full functionality.
+              I've been passionate about web design since I was 12 years old.
+              Wanting to be an illustrator, I opted for a degree in graphic
+              design instead. Web development allows me to marry my love for art
+              with my desire for organization. The results are thoughtful
+              compositions with full functionality.
             </p>
             <div className="buttons">
               <a href="https://twitter.com/_Razur">

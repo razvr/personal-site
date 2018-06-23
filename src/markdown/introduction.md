@@ -5,6 +5,6 @@ title: "Hey"
 ---
 
 <h1>Hey</h1>
-lsdfjalsfj
-sdfkjlasfjls
-sdfkjsdflk
+I'm Ray. I love design and strive for flawless execution.
+
+I've been passionate about web design since I was 12 years old. Wanting to be an illustrator, I opted for a degree in graphic design instead. Web development allows me to marry my love for art with my desire for organization. The results are thoughtful compositions with full functionality.
