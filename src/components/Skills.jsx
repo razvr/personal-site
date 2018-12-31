@@ -26,6 +26,14 @@ class Skills extends React.Component {
       display: 'JavaScript',
     },
     {
+      function: 'bootstrap',
+      display: 'Bootstrap',
+    },
+    {
+      function: 'sass',
+      display: 'Sass',
+    },
+    {
       function: 'git',
       display: 'Git',
     },
@@ -33,14 +41,10 @@ class Skills extends React.Component {
       function: 'cSharp',
       display: 'C#',
     },
-    {
-      function: 'bootstrap',
-      display: 'Bootstrap',
-    },
-    {
-      function: 'sql',
-      display: 'SQL',
-    },
+    // {
+    //   function: 'sql',
+    //   display: 'SQL Server',
+    // },
   ]
 
   render() {

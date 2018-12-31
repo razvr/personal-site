@@ -4,13 +4,13 @@ import '../styles/homepage.scss'
 class Footer extends React.Component {
   render() {
     return (
-      <footer className="disclaimer" >
+      <footer className="footer">
         <div className="container" style={{height: "18px"}}>
           <div className="copyright">
             &copy; 2016 &ndash; 2018 Rachel Zurawski
           </div>
           <div className="wip">
-            website is a work in progress
+            built with <a href="https://www.gatsbyjs.org/">gatsby</a>,&nbsp; hosted by <a href="https://neocities.org/">neocities</a><i>!</i>
           </div>
         </div>
       </footer>

@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/homepage.scss'
-import $ from 'jquery'
+//import $ from 'jquery'
 //  Import function
 import panning from '../scripts/homepage'
 
@@ -18,7 +18,7 @@ class Jumbotron extends React.Component {
         <div id="focus" />
         <div className="page-head">
           <div className="title">
-            <img src={require("../imgs/logo.png")} />
+            <img src={require("../imgs/logo.png")} alt={''}/>
           </div>
           <div className="tag">
             <span>
