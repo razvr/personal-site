@@ -8,12 +8,11 @@ import Skills from '../components/Skills'
 const IndexPage = () => (
   <Layout>
 
-    <div className="wrapper">
+
       <Jumbotron />
       <Introduction />
       <Skills />
       <div style={{ height: "40px", width: "100%" }} />
-    </div>
 
 
   </Layout>

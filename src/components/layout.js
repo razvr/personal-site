@@ -27,9 +27,11 @@ const Layout = ({ children }) => (
             { name: 'keywords', content: 'developer, design' },
           ]}
         />
-      
 
-        {children}
+        <div className="wrapper">
+          {children}
+        </div>
+
         <Footer />
       </>
     )}

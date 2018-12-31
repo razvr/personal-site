@@ -54,7 +54,7 @@ class Skills extends React.Component {
           <ul>
             {this.skills.map(skill => {
               const IconElem = Icon[skill.function];
-              return <li key={skill.name}>
+              return <li key={skill.function}>
                 <IconElem />
                 <div>
                   <h4>{skill.display}</h4>
