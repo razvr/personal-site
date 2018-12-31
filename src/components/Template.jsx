@@ -25,7 +25,13 @@ class Template extends React.Component {
          </div> */}
 
 
-
+      <h2>Mobile App Design - Savage Wellness</h2>
+        <div className="four">
+          <img src={require("../imgs/folio/savage-wellness/LOGIN.png")} alt="" />
+          <img src={require("../imgs/folio/savage-wellness/HOME.png")} alt="" />
+          <img src={require("../imgs/folio/savage-wellness/COMPLETED-CHALLENGES.png")} alt="" />
+          <img src={require("../imgs/folio/savage-wellness/WEEKLY-WELLNESS.png")} alt="" />
+        </div>
 
 
 
