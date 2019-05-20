@@ -23,7 +23,23 @@ class Template extends React.Component {
           <img src={this.image} alt=""/>
 
          </div> */}
-
+      <h2>Previous work at Forkspot</h2>
+        <div className="one">
+          <img src={require("../imgs/folio/forkspot/City.png")} alt="" />
+        </div>
+        <div className="four" style={{paddingBottom: "0"}}>
+          <img src={require("../imgs/folio/forkspot/screen1.png")} alt="" style={{backgroundColor:"white"}} />
+          <img src={require("../imgs/folio/forkspot/screen2.png")} alt="" />
+          <img src={require("../imgs/folio/forkspot/screen4.png")} alt="" />
+          <img src={require("../imgs/folio/forkspot/screen5.png")} alt="" />
+        </div>
+        <div className="four" style={{paddingBottom: "0"}}>
+          <img src={require("../imgs/folio/forkspot/screen3.png")} alt="" />
+          <img src={require("../imgs/folio/forkspot/marketplace_screen.png")} alt="" style={{width: "73%" }} />
+        </div>
+        <div className="two">
+          <img src={require("../imgs/folio/forkspot/marketplace-logo.png")} alt="" />
+        </div>
 
       <h2>Mobile App Design - Savage Wellness</h2>
         <div className="four">

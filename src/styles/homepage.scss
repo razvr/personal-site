@@ -425,11 +425,13 @@ $desktop: "(min-width: 1024px)";
 
   max-width:1800px;
   img {
-    padding: 1%;
+    margin: 1%;
   }
   .one {
+    padding: 1%;
     img {
       width: 100%;
+      margin: 0;
     }
   }
 
@@ -437,21 +439,21 @@ $desktop: "(min-width: 1024px)";
     padding-bottom: 5%;
     img {
       width: 48%;
-      padding: 1%;
+      // padding: 1%;
     }
   }
   .three {
     padding-bottom: 5%;
     img {
       width: 31%;
-      padding: 1%;
+      // padding: 1%;
     }
   }
   .four {
     padding-bottom: 5%;
     img {
       width: 23%;
-      padding: 1%;
+      // padding: 1%;
     }
   }
 }
