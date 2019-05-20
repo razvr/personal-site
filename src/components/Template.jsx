@@ -38,11 +38,11 @@ class Template extends React.Component {
         </div>
         <div className="four" style={{paddingBottom: "0"}}>
           <img src={require("../imgs/folio/forkspot/screen3.png")} alt="" />
-          <img src={require("../imgs/folio/forkspot/marketplace_screen.png")} alt="" style={{width: "73%" }} />
+          {/* <img src={require("../imgs/folio/forkspot/marketplace_screen.png")} alt="" style={{width: "73%" }} /> */}
         </div>
-        <div className="two" style={{margin: "1%", padding: "1%", backgroundColor:"white", textAlign: "center"}}>
+        {/* <div className="two" style={{margin: "1%", padding: "1%", backgroundColor:"white", textAlign: "center"}}>
           <img src={require("../imgs/folio/forkspot/marketplace-logo.png")} alt="" style={{paddingBottom: "0"}} />
-        </div>
+        </div> */}
 
         <br/><br/><br/>
 
