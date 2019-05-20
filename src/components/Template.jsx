@@ -24,6 +24,9 @@ class Template extends React.Component {
 
          </div> */}
       <h2>Previous work at Forkspot</h2>
+       <p>
+         Please enquire about examples for print production.
+       </p>
         <div className="one">
           <img src={require("../imgs/folio/forkspot/City.png")} alt="" />
         </div>
@@ -37,9 +40,11 @@ class Template extends React.Component {
           <img src={require("../imgs/folio/forkspot/screen3.png")} alt="" />
           <img src={require("../imgs/folio/forkspot/marketplace_screen.png")} alt="" style={{width: "73%" }} />
         </div>
-        <div className="two">
-          <img src={require("../imgs/folio/forkspot/marketplace-logo.png")} alt="" />
+        <div className="two" style={{margin: "1%", padding: "1%", backgroundColor:"white", textAlign: "center"}}>
+          <img src={require("../imgs/folio/forkspot/marketplace-logo.png")} alt="" style={{paddingBottom: "0"}} />
         </div>
+
+        <br/><br/><br/>
 
       <h2>Mobile App Design - Savage Wellness</h2>
         <div className="four">
