@@ -13,7 +13,7 @@
     "gatsby-transformer-remark": "^2.1.17",
     "jquery": "^3.3.1",
     "neocities": "^0.0.3",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-helmet": "^5.2.0",
