@@ -10,7 +10,7 @@
     "gatsby-plugin-react-helmet": "^3.0.5",
     "gatsby-plugin-sass": "^2.0.7",
     "gatsby-source-filesystem": "^2.0.12",
-    "gatsby-transformer-remark": "^2.1.17",
+    "gatsby-transformer-remark": "^5.25.1",
     "jquery": "^3.3.1",
     "neocities": "^0.0.3",
     "node-sass": "^4.11.0",
